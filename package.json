@@ -25,7 +25,7 @@
     "angular": "^1.7.9",
     "bootstrap": "^4.4.1",
     "firebase": "^7.14.2",
-    "firebase-tools": "^8.2.0",
+    "firebase-tools": "^12.4.3",
     "g": "^2.0.1",
     "i": "^0.3.6",
     "ng2-validation": "^4.2.0",
